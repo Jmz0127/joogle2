@@ -1,2 +1,4 @@
-# Joogle - a gateway to my resume
+# Joogle - a gateway to my resume 
+
+search for jon_resume in the search entry field!
 
